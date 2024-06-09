@@ -1,13 +1,11 @@
 ---
 #layout: archive
 title: "Projects"
-permalink: /Projects/
+permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
-
-# Projects
 
 ### Digital Twin-Assisted Deep Reinforcement Learning for Intelligent Traffic Steering in O-RAN  
 Aug. 2023 - Present
