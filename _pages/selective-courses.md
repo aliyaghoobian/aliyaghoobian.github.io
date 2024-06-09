@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-# Selective Courses
-
 - **Statistical Learning Theory**
 - **Convex Optimization**
 - **Distributed Optimization and Learning**
