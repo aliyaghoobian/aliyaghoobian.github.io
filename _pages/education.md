@@ -1,4 +1,13 @@
-## University of Tehran [QS Ranking](https://www.topuniversities.com/universities/university-tehran)
+---
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
+---
+{% include base_path %}
+
+
+## University of Tehran [[QS Ranking](https://www.topuniversities.com/universities/university-tehran)]
 **Location:** Tehran, Iran  
 **Degree:** M.Sc. in Electrical and Computer Engineering – Communication Networks  
 **Duration:** Sep. 2022 – Present  
@@ -7,7 +16,7 @@
 **Supervisor:** Dr. V. Shah-Mansouri  
 **GPA:** 4/4 (19.51/20)
 
-## Amirkabir University of Technology (Tehran Polytechnic) [QS Ranking] (https://www.topuniversities.com/universities/amirkabir-university-technology)
+## Amirkabir University of Technology (Tehran Polytechnic) [[QS Ranking](https://www.topuniversities.com/universities/amirkabir-university-technology)]
 **Location:** Tehran, Iran  
 **Degree:** B.Sc. in Electrical Engineering – Communications Systems  
 **Duration:** Sep. 2017 – Dec. 2021  
