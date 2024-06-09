@@ -18,17 +18,17 @@ Neural Networks - Under supervision Dr. Ahmad Kalhor
 
 
 ## Computer Engineering Department at Amirkabir University of Technology - Tehran, Iran  
-**Project Team Lead at Cloud Computing Research Lab**
+**Project Team Lead at Cloud Computing Research Lab**  
 Dec. 2022 – Aug. 2023  
 - Artificial Intelligence as a Service (AIaaS) Platform
 
 ## Electrical Engineering Department at Amirkabir University of Technology - Tehran, Iran 
-**Project Team Lead in Communication Networks Research Lab**
+**Project Team Lead in Communication Networks Research Lab**  
 Sep. 2021 – Oct. 2022  
 - Software-Defined Radio Access Network (SD-RAN)
 - Open Radio Access Network (O-RAN)
 
-**Researcher and Developer at Communication Networks Research Lab**
+**Researcher and Developer at Communication Networks Research Lab**  
 Jun. 2020 – Sep. 2021  
 - Software-Defined Networking (SDN)
 - Network Function Virtualization (NFV)
