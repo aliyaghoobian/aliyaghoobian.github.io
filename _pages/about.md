@@ -17,4 +17,4 @@ My research broadly falls under the domain of networks and distributed systems a
 * Large-scale testbeds and experimentation
 * Distributed Systems and Cloud Computing
 
-You can find the most up-to-date (April 2024) version of my CV [here](https://aliyaghoobian.github.io/files/Ali Yghoubian-CV.pdf).
+You can find the most up-to-date (April 2024) version of my CV [here](https://aliyaghoobian.github.io/files/AliYghoubian-CV.pdf).
